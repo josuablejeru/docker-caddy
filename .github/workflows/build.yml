@@ -50,6 +50,6 @@ jobs:
           push: true
           tags: |
             josuablejeru/caddy:latest
-            josuablejeru/caddy:${{  github.ref_name }}"
+            josuablejeru/caddy:2.6.1
             ghcr.io/josuablejeru/caddy:latest
-            ghcr.io/josuablejeru/caddy:${{  github.ref_name }}"
+            ghcr.io/josuablejeru/caddy:2.6.1
