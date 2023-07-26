@@ -26,3 +26,4 @@ $ docker pull josuablejeru/ansible-docker:latest
 ## 🛠️ Modules included
 
 - [cloudflare](github.com/caddy-dns/cloudflare)
+- [tailscale](github.com/tailscale/caddy-tailscale)
